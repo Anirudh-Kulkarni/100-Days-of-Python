@@ -1,4 +1,5 @@
 # Blackjack Game
+![100-days-of-code](python.jpg)
 
 This folder contains the program that allows you to play Blackjack. You can try out the game [here](https://games.washingtonpost.com/games/blackjack/).
 
