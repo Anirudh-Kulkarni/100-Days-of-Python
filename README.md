@@ -1,5 +1,7 @@
 # 100 Days of Python Programs
 
+![100-days-of-code](python.jpg)
+
 This repository showcases some of the Python programs I wrote while doing the Udemy course [100 Days of Code: The Complete Python Pro Bootcamp](http://www.udemy.com/course/100-days-of-code/). This is an excellent course and I would highly recommend it to anyone interested in learning and enhancing their coding skills in Python.  All credits for the programs below go to Angela Yu and her team. 
 
 
