@@ -1,5 +1,7 @@
 # Blackjack Game
 ![Blackjack game](blackjack.jpg)
+Photo by <a href="https://unsplash.com/@t_mac?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tom M</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-playing-card-on-a-table-UWh8vs4ZMMM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 
 This folder contains the program that allows you to play Blackjack. You can try out the game [here](https://games.washingtonpost.com/games/blackjack/).
 
