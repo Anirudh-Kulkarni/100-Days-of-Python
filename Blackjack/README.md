@@ -1,6 +1,6 @@
 # Blackjack Game
 
-This folder contains the program that allows you to play Blackjack. You can try out the game [here](https://games.washingtonpost.com/games/blackjack/).
+This folder contains the program that allows you to play Blackjack. You can try out the game [here](https://games.washingtonpost.com/games/blackjack/){:target="_blank" rel="noopener"}.
 
 
 ## Blackjack Overview
