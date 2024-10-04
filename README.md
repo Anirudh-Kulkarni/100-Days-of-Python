@@ -4,6 +4,7 @@ This repository showcases some of the Python programs I wrote while doing the Ud
 
 
 ## Topics Covered
+
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
 - Python Scripting and Automation
@@ -40,4 +41,10 @@ This repository showcases some of the Python programs I wrote while doing the Ud
 - Authentication
 - Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
+
+## Programs in this Repository
+
+1) [Blackjack game]
+
+
 
