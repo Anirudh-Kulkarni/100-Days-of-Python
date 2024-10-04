@@ -44,7 +44,8 @@ This repository showcases some of the Python programs I wrote while doing the Ud
 
 ## Programs in this Repository
 
-1) [Blackjack game](Blackjack)
+1) [Blackjack game](Blackjack) - Try the Blackjack game by running the code here.
+
 
 
 
