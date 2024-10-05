@@ -3,6 +3,11 @@
 
 This folder contains the program that allows you to play Blackjack. You can try out the game [here](https://games.washingtonpost.com/games/blackjack/).
 
+## Table of Contents
+- [Blackjack Overview](#blackjack-overview)
+- [Card Valuese](#card-values)
+- [Game Rules](#game-rules)
+- [Simplified Game Mechanics](#simplified-game-mechanics-for-this-program)
 
 ## Blackjack Overview
   - Known as 21, Blackjack is a card game where the goal is to have cards totaling as close to 21 as possible without exceeding it.
