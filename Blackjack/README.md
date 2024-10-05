@@ -5,7 +5,7 @@ This folder contains the program that allows you to play Blackjack. You can try 
 
 ## Table of Contents
 - [Blackjack Overview](#blackjack-overview)
-- [Card Valuese](#card-values)
+- [Card Values](#card-values)
 - [Game Rules](#game-rules)
 - [Simplified Game Mechanics](#simplified-game-mechanics-for-this-program)
 
