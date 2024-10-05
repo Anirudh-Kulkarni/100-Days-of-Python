@@ -48,7 +48,7 @@ This repository showcases some of the Python programs I wrote while doing the Ud
 ## Programs in this Repository
 
 1) [Blackjack game](Blackjack) - Try the Blackjack game by running the code here.
-2) [Coffee Machine](Coffee machine/) - This program a coffee machine that allows users to order drinks, check resources, and manage transactions.
+2) [Coffee Machine](Coffee-machine) - This program a coffee machine that allows users to order drinks, check resources, and manage transactions.
 
 
 
