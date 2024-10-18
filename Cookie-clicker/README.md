@@ -5,7 +5,7 @@ This script automates gameplay for the web-based game [Cookie Clicker](https://o
 
 ## Table of Contents
 - [Features](#features)
--[Requirements](#requirements)
+- [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -38,8 +38,8 @@ This script automates gameplay for the web-based game [Cookie Clicker](https://o
 `buy_add_on_time`: Set how frequently (in seconds) you want to buy unlocked add-ons.
 
 3. Run the script:
-```bash
-python cookie_clicker_automation.py
+    ```bash
+    python cookie_clicker_automation.py
 
 Follow the on-screen prompts: The script will navigate to the Cookie Clicker website and begin automating gameplay.
 
