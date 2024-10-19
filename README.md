@@ -47,9 +47,10 @@ This repository showcases some of the Python programs I wrote while doing the Ud
 
 ## Programs in this Repository
 
-1) [Blackjack game](Blackjack) - This program simulates a simple Blackjack game using Python and uses random number generation, conditional logic, recursive functions, and user input handling.
+1) [Blackjack Game](Blackjack) - This program simulates a simple Blackjack game using Python and uses random number generation, conditional logic, recursive functions, and user input handling.
 2) [Coffee Machine](Coffee-machine) - This program simulates a coffee machine operation using Python and uses object-oriented programming, user input handling, and resource management to manage orders and inventory.
-2) [Cookie Clicker](Cookie-clicker) - This folder contains a Selenium automation script for Cookie Clicker and uses web scraping, browser automation, scheduling tasks, and handling web elements with Python.
+3) [Cookie Clicker](Cookie-clicker) - This folder contains a Selenium automation script for Cookie Clicker and uses web scraping, browser automation, scheduling tasks, and handling web elements with Python.
+4) [PDF to Audio Converter](PDF-to-Audio) - A Python script that extracts text from PDFs and converts it into speech using gTTS, pygame, and PyPDF2, with audio playback and saving functionality.
 
 
 
