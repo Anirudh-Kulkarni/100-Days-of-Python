@@ -53,4 +53,9 @@ This repository showcases some of the Python programs I wrote while doing the Ud
 4) [PDF to Audio Converter](PDF-to-Audio) - A Python script that extracts text from PDFs and converts it into speech using gTTS, pygame, and PyPDF2, with audio playback and saving functionality.
 
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 

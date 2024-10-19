@@ -116,3 +116,7 @@ The **Zimingzhong Exhibition** guide delves into the mechanics, trade routes, to
 
 This Python script provides an easy way to convert PDF documents into audio format, making them more accessible for people who prefer listening or for those with visual impairments. Whether you want to convert exhibition guides like this one or any other PDF, the script offers a simple solution to creating personalized audio versions of your favorite documents.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
